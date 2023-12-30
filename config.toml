@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Tyler Chen'
+theme = 'hugo-tranquilpeak-theme'
