@@ -45,11 +45,11 @@ canonifyurls = true
 # ------
 [author]
   name = "Tyler Chen"
-  bio = "Super bio with markdown support **COOL**"
-  job = "Broke"
-  location = "New Zealand"
+  bio = "Software Engineering Student"
+  job = "Student"
+  location = "University of Waterloo"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = "thibaud.lepretre@gmail.com"
+  gravatarEmail = "placeholder@realemail.bongo"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
@@ -91,19 +91,19 @@ canonifyurls = true
   name = "About"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
   url = "/#about"
-
 [[menu.links]]
   weight = 1
   identifier = "github"
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fab fa-lg fa-github\" aria-hidden=\"true\"></i>"
-  url = "https://github.com/kakawait"
+  url = "https://github.com/SubwayMan"
+
 [[menu.links]]
   weight = 2
-  identifier = "stackoverflow"
-  name = "Stack Overflow"
-  pre = "<i class=\"sidebar-button-icon fab fa-lg fa-stack-overflow\" aria-hidden=\"true\"></i>"
-  url = "https://stackoverflow.com/users/636472/kakawait"
+  identifier = "resume"
+  name = "Resume"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-file\" aria-hidden=\"true\"></i>"
+  url = "/resume"
 
 [[menu.misc]]
   weight = 1
@@ -119,7 +119,7 @@ canonifyurls = true
   # -----------
   # Description
   # -----------
-  description = "Hugo tranquilpeak theme demo"
+  description = "Tyler Chen's personal website"
 
   # ------------------
   # Syntax highlighter
