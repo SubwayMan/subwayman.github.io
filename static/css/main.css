@@ -1,4 +1,33 @@
 
+body {
+  color: #ffffff;
+}
+
 #main {
   background-color: #1a191a;
+}
+
+#cover {
+  filter: brightness(50%);
+}
+
+.btn {
+  background: #353740;
+}
+
+#header {
+  background-color: #201f2e;
+  border: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #dadae3;
+}
+
+p {
+  color: #cdc7d6;
+}
+
+.postShorten-excerpt {
+  color: #a4adb3 !important;
 }
