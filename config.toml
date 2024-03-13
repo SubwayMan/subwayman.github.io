@@ -50,7 +50,7 @@ canonifyurls = true
   location = "University of Waterloo"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "https://cdn.discordapp.com/attachments/653376033583661076/1197004198588456960/image-5.png"
+  picture = "https://media.licdn.com/dms/image/D5603AQH4mcTV_UakLw/profile-displayphoto-shrink_800_800/0/1708486491230?e=1715817600&v=beta&t=cxWBS88BJyt8RURdils6wAKxQZigRXRe2xZZlSIQZY4"
   # Your Twitter username without the @. E.g : thibaudlepretre
   # twitter = "thibaudlepretre"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
